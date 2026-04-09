@@ -1,0 +1,17 @@
+.logo{
+    display: flex;
+    font-size: 30px;
+    margin-left: 5px;
+}
+.logo_img{
+    margin: 10px;
+}   
+.iconos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    padding: 0 5px;
+    cursor: pointer;
+}

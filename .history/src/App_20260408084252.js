@@ -1,0 +1,24 @@
+import styled from 'styled-components';
+import './App.css';
+import Header from './components/Header';
+
+const AppContainer = style.div`
+  width: 100vw;
+  height: 100vh;
+  background-image: linear-gradient(to bottom, #031e55, #57559b);
+
+
+li{
+    list-style: none;
+}
+`;
+
+function App() {
+  return (
+    <AppContainer>
+      <Header />
+    </div>
+  );
+}
+
+export default App;

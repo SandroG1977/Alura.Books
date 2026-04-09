@@ -1,0 +1,35 @@
+.App {width: 100vw; 
+  height: 100vh;
+  background-image: linear-gradient(to bottom, #031e55, #57559b); 
+  
+}
+
+.App-header {
+  background-color: white;
+  display: flex;
+}
+
+li{
+    list-style: none;
+}
+.opciones{
+    display: flex;
+}
+.opcion{
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+  padding: 0 5px;
+  cursor: pointer;
+  min-width: 120px;
+    
+}
+
+.iconos{
+    display: flex;
+
+  padding: 0 5px;
+}

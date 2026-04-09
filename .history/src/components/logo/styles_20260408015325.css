@@ -1,0 +1,8 @@
+.logo{
+    display: flex;
+    font-size: 30px;
+    margin-left: 5px;
+}
+.logo_img{
+    margin-right: 10px; 
+}   

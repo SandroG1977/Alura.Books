@@ -1,0 +1,9 @@
+.iconos{
+    display: flex;
+    align-items: center;
+}
+
+.icono{
+    width: 40px;
+    margin-right: 25px;
+}

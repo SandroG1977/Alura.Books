@@ -1,0 +1,26 @@
+.logo{
+    display: flex;
+    font-size: 1.5em;
+    margin-left: 5px;
+}
+.logo_img{
+    margin-right: 10px;
+}   
+li{
+    list-style: none;
+}
+.opciones{
+    display: flex;
+    margin-left: 40px;
+}
+.opcion{
+    color: rgb(14, 2, 56);
+    font-size: 1.2em;
+    min-width: 120px;
+    justify-content: center;
+    align-items: center;   
+    text-align: center;
+    height: 100%;
+    padding: 10px;
+    
+}
